@@ -2,14 +2,14 @@ A small projectt in which I trained a deeplab model on a rather small dataset to
 
 #Examples
 
-## 1.Train: 
+## 1.Traindata: 
 sample image and true mask
 <div>
   <img src="train_images/121.png">
   <img src="masks/121.png">
 </div>
 
-## 2.Train:
+## 2.Inference:
 sample test image and predicted output
 <div>
   <img src="test_images/535.png">
